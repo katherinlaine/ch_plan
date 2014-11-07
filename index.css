@@ -1,0 +1,29 @@
+body {
+  border: 5px solid;
+}
+
+.donate {
+  width: 65%;
+  position: relative;
+  float: left;
+  border: 5px solid;
+
+}
+.search {
+
+  border: 5px solid;
+}
+.ch_info {
+  border: 5px solid;
+
+}
+.agency_log {
+  width: 35%;
+  float: right;
+  border: 5px solid;
+}
+.admin_log { 
+  width: 35%;
+  float: right;
+  border: 5px solid;
+}
